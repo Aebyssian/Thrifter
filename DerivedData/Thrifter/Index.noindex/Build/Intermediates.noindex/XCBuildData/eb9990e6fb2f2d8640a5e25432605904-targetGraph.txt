@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Thrifter in Thrifter, no dependencies
+Thrifter in Thrifter, no dependencies
+ThrifterTests in Thrifter, depends on:
+Thrifter in Thrifter (explicit)
+ThrifterTests in Thrifter, depends on:
+Thrifter in Thrifter (explicit)
+ThrifterTests in Thrifter, no dependencies
+ThrifterUITests in Thrifter, depends on:
+Thrifter in Thrifter (explicit)
+ThrifterUITests in Thrifter, depends on:
+Thrifter in Thrifter (explicit)
+ThrifterUITests in Thrifter, no dependencies

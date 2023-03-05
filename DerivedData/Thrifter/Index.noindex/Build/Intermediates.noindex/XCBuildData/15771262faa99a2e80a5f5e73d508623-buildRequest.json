@@ -1,0 +1,67 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "58a7735ff6a305fb8c4aa157b1e5e26d564c87a2d3ca331eb44c62567e0ecd8a"
+    },
+    {
+      "guid" : "58a7735ff6a305fb8c4aa157b1e5e26dbeb1437ce5136d9febe580349f47f1cc"
+    },
+    {
+      "guid" : "58a7735ff6a305fb8c4aa157b1e5e26d16d83ce4a48eaa8fc6a259b4757fd4db"
+    }
+  ],
+  "containerPath" : "/Users/astro/Desktop/Thrifter/Thrifter.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/astro/Desktop/Thrifter/DerivedData/Thrifter/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/astro/Desktop/Thrifter/DerivedData/Thrifter/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/astro/Desktop/Thrifter/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/astro/Desktop/Thrifter/DerivedData/Thrifter/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/astro/Desktop/Thrifter/DerivedData/Thrifter/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/astro/Desktop/Thrifter/DerivedData/Thrifter/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/astro/Desktop/Thrifter/DerivedData/Thrifter/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
